@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'yylsite'
+project = 'Yang Yulin’s Personal Site'
 copyright = '2022, Yang Yulin'
 author = 'Yang Yulin'
 
